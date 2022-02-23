@@ -32,5 +32,7 @@
   <a href="https://www.linkedin.com/in/gabriel-lagrota-728029168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
-
-  <img align="center" width=100 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LagrotaGabriel&count_private=true&theme=radical" alt="LagrotaGabriel" />
+  
+ <div align="center">
+    <img align="center" width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LagrotaGabriel&count_private=true&theme=radical" alt="LagrotaGabriel" /   
+  </div>
