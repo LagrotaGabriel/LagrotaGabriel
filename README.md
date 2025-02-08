@@ -29,6 +29,7 @@
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/53ef0d6e-5f2b-4c95-8328-f9817fa080ce" alt="github-foundations" width="150"/>
+<img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="150"/>
 </div>
 
 ---
